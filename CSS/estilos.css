@@ -19,7 +19,14 @@ button:hover{
     border: 2px solid rgb(222, 227, 231);
     
 }*/
-@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@300&display=swap');
+
+
+body{
+    font-family: 'Labrada', serif;
+    background-color: rgb(182, 236, 218)
+    
+}
+
 
 #boton1{
     font-family: 'Labrada', serif;
@@ -97,9 +104,9 @@ ol{
 }
 a{
     font-family: 'Labrada', serif;
-    color: rgb(8, 105, 161);
+    color: rgb(110, 6, 6);
     margin-left: 20px;
-    
+        
 }
 .imagenperfil{
         text-align: center;
@@ -161,7 +168,7 @@ a{
     text-align:right
 }
 .fondo{
-    background-image: url(fondo.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/01/11/15/heart-1364754_1280.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
